@@ -1,18 +1,6 @@
 # ptable
 
-> Periodic Table
+> Periodic Table of the Elements
+made with VueJs
+inspired by adam from work. he was slacking so i made my own.
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
